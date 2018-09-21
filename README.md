@@ -9,6 +9,9 @@
   (CrudRepository, PagingAndSortingRepository) as well as persistence 
    store specific implementations.
 
+                          ![Spring Data Overview](Spring_Data.jpg)
+
+                          
 * With Spring Data’s repositories, you need only to write an interface 
   with finder methods defined according to a given set of conventions 
   (which may vary depending on the kind of persistence store you are using). 
@@ -24,7 +27,6 @@
 			List<User> findByFullNameLike(String fullName, Sort sort);
 	}
 
-![Spring Data Overview](Spring_Data.jpg)
 
 * Most Spring Data projects support the followings aspects :
 
