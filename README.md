@@ -9,7 +9,7 @@
   (CrudRepository, PagingAndSortingRepository) as well as persistence 
    store specific implementations.
 
-                          ![Spring Data Overview](Spring_Data.jpg)
+![Spring Data Overview](Spring_Data.jpg)
 
                           
 * With Spring Data’s repositories, you need only to write an interface 
