@@ -220,5 +220,5 @@
 
 References
 ==========
-https://www.infoq.com/articles/spring-data-intro
+https://www.infoq.com/articles/spring-data-intro   
 http://projects.spring.io/spring-data/
