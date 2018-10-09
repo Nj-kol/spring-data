@@ -5,18 +5,18 @@
 
 **For Spring Boot**
 
-<dependency>
-	<groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-data-cassandra</artifactId>
-</dependency>
+        <dependency>
+        	<groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-cassandra</artifactId>
+        </dependency>
 
 **For Non-Spring Boot**
 
-<dependency>
-    <groupId>org.springframework.data</groupId>
-    <artifactId>spring-data-cassandra</artifactId>
-    <version>1.5.3.RELEASE</version>
-</dependency>
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-cassandra</artifactId>
+            <version>1.5.3.RELEASE</version>
+        </dependency>
 
 ## Configuration for Cassandra
 
