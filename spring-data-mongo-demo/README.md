@@ -4,14 +4,14 @@
 
 ## Dependencies neeeded
 
-    **For Spring Boot**
+**For Spring Boot**
 	
 	<dependency>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-data-mongodb</artifactId>
 	</dependency>
 	
-	**For Non-Spring Boot**
+**For Non-Spring Boot**
 	
 	<dependency>
 		<groupId>org.springframework.data</groupId>
